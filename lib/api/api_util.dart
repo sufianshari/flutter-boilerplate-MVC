@@ -16,7 +16,7 @@ class ApiUtil {
 
   /*------------ For Production server ----------------------*/
   //TODO: Change base URL as per your server
-  static const String BASE_URL = "https://Boilerplate.id/";
+  static const String BASE_URL = "https://yoururl.com/";
 
   static const String MAIN_API_URL_DEV =
       BASE_URL + "api/" + API_VERSION + "/" + USER_MODE;
